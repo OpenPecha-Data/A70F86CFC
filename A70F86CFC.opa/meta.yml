@@ -1,0 +1,22 @@
+id: A70F86CFC
+title: A Dzogchen Tögal Prayer
+type: translation
+pechas:
+- I14AAF35D
+- I6AAA2B7A
+- I326E66B9
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:50:30.867802
+  last_modified_at: 2023-01-04 11:50:30.867814
+  collections:
+  - Dzogchen Pema Rigdzin Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I14AAF35D/ED3A: '9864'
+  I6AAA2B7A/114C: '9864'
+  I326E66B9/BB5D: '9864'
